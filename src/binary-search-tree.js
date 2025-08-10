@@ -7,38 +7,31 @@ const { NotImplementedError } = require('../lib/errors');
 */
 class BinarySearchTree {
   root() {
-    // Remove line below and write your code here
-    throw new NotImplementedError('Not implemented');
+
   }
 
-  add(/* data */) {
-    // Remove line below and write your code here
-    throw new NotImplementedError('Not implemented');
+  add(data) {
+    
   }
 
-  find(/* data */) {
-    // Remove line below and write your code here
-    throw new NotImplementedError('Not implemented');
+  find(data) {
+
   }
 
-  has(/* data */) {
-    // Remove line below and write your code here
-    throw new NotImplementedError('Not implemented');
+  has(data) {
+
   }
 
-  remove(/* data */) {
-    // Remove line below and write your code here
-    throw new NotImplementedError('Not implemented');
+  remove(data) {
+
   }
 
   min() {
-    // Remove line below and write your code here
-    throw new NotImplementedError('Not implemented');
+
   }
 
   max() {
-    // Remove line below and write your code here
-    throw new NotImplementedError('Not implemented');
+
   }
 }
 
