@@ -24,6 +24,10 @@ class Stack {
   }
 
   pop() {
+    if (this.size === 0) {
+      return undefined;
+    }
+
     let removed = this.storage[this.size]
     delete this.storage[this.size]
     this.size--
